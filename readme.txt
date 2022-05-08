@@ -1,1 +1,1 @@
-novaya stroka
+Hello, git!
