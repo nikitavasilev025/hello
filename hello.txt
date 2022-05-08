@@ -2,3 +2,4 @@ hello world
 new
 delete
 Hello, git!
+Hello git rebase
